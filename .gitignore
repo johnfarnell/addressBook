@@ -1,0 +1,6 @@
+build/*
+coverage/*
+node_modules/*
+jest.nope.config.js
+.jest*
+.vscode
